@@ -9,10 +9,9 @@ To view a live example, [click here.](https://lordsauron5.github.io/background-c
 
 ------------
 
-
-
 |   HTML | CSS | JavaScript  |
-| :------------: |
+| :------------: | :------------: | :------------: |
+|  custom | custom  | vanilla  |
 
 
 ### Features
@@ -20,8 +19,6 @@ To view a live example, [click here.](https://lordsauron5.github.io/background-c
 - Allows 2 selection inputs for mixing a gradient background.
 - Displays the CSS generated code for the backround generated
 - Realtime changes
-
-
 
 ###Screenshots
 
