@@ -20,7 +20,7 @@ To view a live example, [click here.](https://lordsauron5.github.io/background-c
 - Displays the CSS generated code for the backround generated
 - Realtime changes
 
-###Screenshots
+### Screenshots
 
 Image:
 
